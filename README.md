@@ -28,7 +28,7 @@ A sleek and functional To-Do List web application with task persistence, intelli
 
 ## 📦 Getting Started
 
-### 🖥️ Run in your computer
+### 🖥️ Clone Repository
 1. Clone the repository:
 
    ```Git
