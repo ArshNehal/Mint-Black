@@ -36,3 +36,4 @@ A sleek and functional To-Do List web application with task persistence, intelli
 ### 🌐 Run in any browser
 👉 https://mintblack.netlify.app
 
+## Owner Discord - arsh_nehal
