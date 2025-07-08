@@ -31,7 +31,7 @@ A sleek and functional To-Do List web application with task persistence, intelli
 ### 🖥️ Run in your computer
 1. Clone the repository:
 
-   ```bash
+   ```Git
    git clone https://github.com/your-username/your-repo-name.git
 ## 🌐 Run in any browser
 👉 https://mintblack.netlify.app
